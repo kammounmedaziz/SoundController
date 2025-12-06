@@ -4,7 +4,7 @@ This project allows you to control your laptop's volume using hand gestures dete
 
 ## Installation
 
-1. Install Python 3.7+.
+1. Install Python 3.8+.
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
